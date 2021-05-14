@@ -1,1 +1,3 @@
 # hcde-410-final
+
+In this study, I will look for correlation between political affiliation and vaccination preferability by looking determining political affiliation and percentage of people willing to vaccinate in the first 3 months since vaccines were availabe for each state in the US. Political affiliation of each state is determined by majority Democrat or Republican votes in the 2020 US presidential election. The percentage of people willing to vaccinate is determined by finding the proportion of the number of people who has been administered the first dose of the vaccine to the state population. 
